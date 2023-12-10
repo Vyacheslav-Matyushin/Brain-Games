@@ -10,7 +10,9 @@ You just need to write the game name in the terminal
 + brain-calc
 
 ### Game: "Parity Check"
+
 [![asciicast](https://asciinema.org/a/4piTWwhN4RXjoasZep17CQ0QD.svg)](https://asciinema.org/a/4piTWwhN4RXjoasZep17CQ0QD)
 
 ### Game: "Calculator"
+
 [![asciicast](https://asciinema.org/a/A4lOhMerqWEu5wN3rdENoLi5G.svg)](https://asciinema.org/a/A4lOhMerqWEu5wN3rdENoLi5G)
