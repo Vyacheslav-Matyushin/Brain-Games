@@ -2,6 +2,7 @@
 [![Actions Status](https://github.com/Vyacheslav-Matyushin/frontend-project-44/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/Vyacheslav-Matyushin/frontend-project-44/actions)
 
 ### Description
+Answer yes if the number is even, otherwise answer no.
 
 #### Games:
 
