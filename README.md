@@ -9,5 +9,5 @@
 
 **You just need to write the game name in the terminal**
 
-###Yes or not
+### Yes or not
 [![asciicast](https://asciinema.org/a/4piTWwhN4RXjoasZep17CQ0QD.svg)](https://asciinema.org/a/4piTWwhN4RXjoasZep17CQ0QD)
