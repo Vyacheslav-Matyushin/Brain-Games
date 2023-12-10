@@ -16,3 +16,5 @@ You just need to write the game name in the terminal
 [![asciicast](https://asciinema.org/a/A4lOhMerqWEu5wN3rdENoLi5G.svg)](https://asciinema.org/a/A4lOhMerqWEu5wN3rdENoLi5G)
 ### Game "Greatest Common Divisor (GCD)"
 [![asciicast](https://asciinema.org/a/pABg28dgCKm4v5CzF9YGmqgXK.svg)](https://asciinema.org/a/pABg28dgCKm4v5CzF9YGmqgXK)
+### Game: "Arithmetic progression"
+[![asciicast](https://asciinema.org/a/j01yyJJw9GfMm8DEhaAojE72j.svg)](https://asciinema.org/a/j01yyJJw9GfMm8DEhaAojE72j)
