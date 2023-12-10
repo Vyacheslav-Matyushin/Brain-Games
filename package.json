@@ -3,11 +3,14 @@
   "version": "1.0.0",
   "description": "project \"Mind Games\"",
   "main": "index.js",
+  "bin": {
+	"brain-games": "bin/brain-games.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
-    "type": "git",
+    "type": "module",
     "url": "git+https://github.com/Vyacheslav-Matyushin/frontend-project-44.git"
   },
   "author": "Vyacheslav-Matyushin",
