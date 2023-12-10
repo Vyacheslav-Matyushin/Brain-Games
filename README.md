@@ -10,6 +10,7 @@ You just need to write the game name in the terminal
 + brain-calc
 + brain-gcd
 + brain-progression
++ brain-prime
 
 ### Game: "Parity Check"
 [![asciicast](https://asciinema.org/a/4piTWwhN4RXjoasZep17CQ0QD.svg)](https://asciinema.org/a/4piTWwhN4RXjoasZep17CQ0QD)
@@ -19,3 +20,5 @@ You just need to write the game name in the terminal
 [![asciicast](https://asciinema.org/a/pABg28dgCKm4v5CzF9YGmqgXK.svg)](https://asciinema.org/a/pABg28dgCKm4v5CzF9YGmqgXK)
 ### Game: "Arithmetic progression"
 [![asciicast](https://asciinema.org/a/j01yyJJw9GfMm8DEhaAojE72j.svg)](https://asciinema.org/a/j01yyJJw9GfMm8DEhaAojE72j)
+### Game "Is the number prime?"
+[![asciicast](https://asciinema.org/a/bqJSzNmdjyF7wFT2UlkMPpnn0.svg)](https://asciinema.org/a/bqJSzNmdjyF7wFT2UlkMPpnn0)
