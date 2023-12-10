@@ -2,13 +2,15 @@
 [![Actions Status](https://github.com/Vyacheslav-Matyushin/frontend-project-44/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/Vyacheslav-Matyushin/frontend-project-44/actions)
 
 ### Description
-Answer yes if the number is even, otherwise answer no.
+You just need to write the game name in the terminal**
 
 #### Games:
 
 + brain-even
++ brain-calc
 
-**You just need to write the game name in the terminal**
-
-### Yes or not
+### Game: "Parity Check"
 [![asciicast](https://asciinema.org/a/4piTWwhN4RXjoasZep17CQ0QD.svg)](https://asciinema.org/a/4piTWwhN4RXjoasZep17CQ0QD)
+
+### Game: "Calculator"
+[![asciicast](https://asciinema.org/a/A4lOhMerqWEu5wN3rdENoLi5G.svg)](https://asciinema.org/a/A4lOhMerqWEu5wN3rdENoLi5G)
