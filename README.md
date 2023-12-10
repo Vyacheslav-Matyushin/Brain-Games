@@ -8,6 +8,7 @@ You just need to write the game name in the terminal
 
 + brain-even
 + brain-calc
++ brain-gcd
 
 ### Game: "Parity Check"
 [![asciicast](https://asciinema.org/a/4piTWwhN4RXjoasZep17CQ0QD.svg)](https://asciinema.org/a/4piTWwhN4RXjoasZep17CQ0QD)
