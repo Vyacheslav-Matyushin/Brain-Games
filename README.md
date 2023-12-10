@@ -2,7 +2,7 @@
 [![Actions Status](https://github.com/Vyacheslav-Matyushin/frontend-project-44/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/Vyacheslav-Matyushin/frontend-project-44/actions)
 
 ### Description
-You just need to write the game name in the terminal**
+You just need to write the game name in the terminal
 
 #### Games:
 
