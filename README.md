@@ -13,3 +13,5 @@ You just need to write the game name in the terminal
 [![asciicast](https://asciinema.org/a/4piTWwhN4RXjoasZep17CQ0QD.svg)](https://asciinema.org/a/4piTWwhN4RXjoasZep17CQ0QD)
 ### Game: "Calculator"
 [![asciicast](https://asciinema.org/a/A4lOhMerqWEu5wN3rdENoLi5G.svg)](https://asciinema.org/a/A4lOhMerqWEu5wN3rdENoLi5G)
+### Game "Greatest Common Divisor (GCD)"
+[![asciicast](https://asciinema.org/a/pABg28dgCKm4v5CzF9YGmqgXK.svg)](https://asciinema.org/a/pABg28dgCKm4v5CzF9YGmqgXK)
