@@ -1,11 +1,4 @@
-# Brain Games
-
-5 console games
-
-### Hexlet tests and linter status:
 [![Actions Status](https://github.com/Vyacheslav-Matyushin/frontend-project-44/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/Vyacheslav-Matyushin/frontend-project-44/actions)
-
-### Code Climate 
 [![Maintainability](https://api.codeclimate.com/v1/badges/a4b5a292ecfbe5717461/maintainability)](https://codeclimate.com/github/Vyacheslav-Matyushin/brain-games/maintainability)
 
 ### Description
